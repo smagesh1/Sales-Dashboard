@@ -2,6 +2,10 @@
 
 ## About the project
 - This dataset contains information about a fictional company which include such as customer information, orders, order details, payments and offices.  The company wholesales classic model cars and has seven branch offices worldwide.
+
+- Dataset ER diagram:
+
+![](ClassicModels%20ER%20diagram.png)
   
 - The aim is to provide analysis where the company can improve business for example, by identifying which products are most profitable and which ones are not.
   
